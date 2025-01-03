@@ -2906,7 +2906,6 @@ __metadata:
     react-native: 0.75.3
     react-native-permissions: ^4.1.5
     react-test-renderer: 18.3.1
-    rn-foreground-service: ^1.0.8
     typescript: 5.0.4
   languageName: unknown
   linkType: soft
@@ -3896,13 +3895,13 @@ __metadata:
   linkType: hard
 
 "cross-spawn@npm:^7.0.0, cross-spawn@npm:^7.0.2, cross-spawn@npm:^7.0.3":
-  version: 7.0.3
-  resolution: "cross-spawn@npm:7.0.3"
+  version: 7.0.6
+  resolution: "cross-spawn@npm:7.0.6"
   dependencies:
     path-key: ^3.1.0
     shebang-command: ^2.0.0
     which: ^2.0.1
-  checksum: 671cc7c7288c3a8406f3c69a3ae2fc85555c04169e9d611def9a675635472614f1c0ed0ef80955d5b6d4e724f6ced67f0ad1bb006c2ea643488fcfef994d7f52
+  checksum: 8d306efacaf6f3f60e0224c287664093fa9185680b2d195852ba9a863f85d02dcc737094c6e512175f8ee0161f9b87c73c6826034c2422e39de7d6569cf4503b
   languageName: node
   linkType: hard
 
@@ -8215,15 +8214,6 @@ __metadata:
   bin:
     rimraf: ./bin.js
   checksum: 3ea587b981a19016297edb96d1ffe48af7e6af69660e3b371dbfc73722a73a0b0e9be5c88089fbeeb866c389c1098e07f64929c7414290504b855f54f901ab10
-  languageName: node
-  linkType: hard
-
-"rn-foreground-service@npm:^1.0.8":
-  version: 1.0.8
-  resolution: "rn-foreground-service@npm:1.0.8"
-  peerDependencies:
-    react-native: ^0.67.4
-  checksum: a850cca77848a2c8ddb6f6ae0154ac96827ed3c1d170330e4b92f772e85f02c83a35742e957f72ea94be87a0487ac20db628f5e2d475c548222ea6c16ef9bc65
   languageName: node
   linkType: hard
 
